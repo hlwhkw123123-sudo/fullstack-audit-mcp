@@ -1,0 +1,7 @@
+{
+  "name": "fixture",
+  "dependencies": {
+    "react": "^19.0.0",
+    "express": "^5.0.0"
+  }
+}

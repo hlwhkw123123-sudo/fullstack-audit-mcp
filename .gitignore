@@ -1,0 +1,12 @@
+node_modules/
+.npm-cache/
+.pack-check/
+.pack-check-final/
+.release-check/
+dist/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+audit-report.*
